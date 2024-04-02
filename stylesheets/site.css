@@ -1,0 +1,34 @@
+h1{
+    color: chocolate;
+}
+h2{
+    color: crimson; 
+    text-decoration-line;
+}
+h1, h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+p, li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#banner{
+background-color: chartreuse;
+color: darkgreen;
+}
+
+#nav{
+    background-color: rgb(64, 123, 6);
+    color: chartreuse;
+    padding: 10px;
+    text-align: center;
+}
+
+#nav a{
+    color:chartreuse;
+    text-decoration: none;
+    font-size: large;
+    font-style: italic;
+    margin-right: 11px;
+}
+
